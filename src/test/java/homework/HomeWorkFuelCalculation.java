@@ -13,7 +13,6 @@ public class HomeWorkFuelCalculation {
     @Test
     public void test(){
         float consumption = fuelCalculation(12, 650);
-        consumption = consumption;
 
         System.out.println(consumption);
     }
